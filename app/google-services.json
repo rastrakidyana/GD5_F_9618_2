@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964125566097",
+    "firebase_url": "https://gd5f96182.firebaseio.com",
+    "project_id": "gd5f96182",
+    "storage_bucket": "gd5f96182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964125566097:android:8b855d370f2ebadadf4b30",
+        "android_client_info": {
+          "package_name": "com.maderastra.gd5_f_9618_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964125566097-a7rg04gf88htm4hpsn4ef54ivre4f03e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2RTGLN9wXksORlpSstpBSPFevo7x_mGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964125566097-a7rg04gf88htm4hpsn4ef54ivre4f03e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
